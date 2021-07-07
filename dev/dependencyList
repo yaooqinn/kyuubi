@@ -23,8 +23,8 @@ curator-recipes/2.12.0//curator-recipes-2.12.0.jar
 curator-test/2.12.0//curator-test-2.12.0.jar
 failureaccess/1.0.1//failureaccess-1.0.1.jar
 guava/30.1-jre//guava-30.1-jre.jar
-hadoop-client-api/3.2.2//hadoop-client-api-3.2.2.jar
-hadoop-client-runtime/3.2.2//hadoop-client-runtime-3.2.2.jar
+hadoop-client-api/3.3.1//hadoop-client-api-3.3.1.jar
+hadoop-client-runtime/3.3.1//hadoop-client-runtime-3.3.1.jar
 hive-service-rpc/2.3.7//hive-service-rpc-2.3.7.jar
 htrace-core4/4.1.0-incubating//htrace-core4-4.1.0-incubating.jar
 jackson-annotations/2.11.4//jackson-annotations-2.11.4.jar
